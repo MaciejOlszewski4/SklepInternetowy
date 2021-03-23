@@ -1,0 +1,2 @@
+C:\Users\macie\source\repos\SklepInternetowy\Sklep\Sklep\obj\Debug\Sklep.csprojAssemblyReference.cache
+C:\Users\macie\source\repos\SklepInternetowy\Sklep\Sklep\obj\Debug\Sklep.csproj.CoreCompileInputs.cache
